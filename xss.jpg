@@ -1,0 +1,5 @@
+$ file xss.jpg
+xss.jpg: HTML document text
+$ cat xss.jpg
+<!doctype html>
+<script>alert("XSS done");</script>

